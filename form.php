@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<h1>Online Registration Form</h1>
+		
 		<form method="post" action="form.php">
 			<p>First Name
 			<input type="text" name="fname" /></p>
